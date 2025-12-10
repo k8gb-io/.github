@@ -12,4 +12,4 @@ Check out issues labeled `good first issue` to find beginner-friendly tasks.
 2. Create a feature branch
 3. Submit a pull request
 
-See our [documentation](https://www.k8gb.io/#contributing) for more details.
+See our [documentation](https://www.k8gb.io/CONTRIBUTING/) for more details.
